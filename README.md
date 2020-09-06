@@ -34,20 +34,18 @@ Here are some ideas to get you started:
 <br/>
 
 
-
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 🌱 I’m currently learning more about Android.
+- 👯 I’m looking to collaborate on Youtube.
+- 🤔 I’m looking for help with Stackoverflow.
+- 💬 Ask me about Python or any tech related stuff.
+- 📫 How to reach me: [Twitter - @lutir_singh](https://twitter.com/lutir_singh) , [Linkdein - @ritul-singh](https://www.linkedin.com/in/ritul-singh)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 6 to 7 hours with my laptop every day.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![Twitter: lutir_singh](https://img.shields.io/twitter/follow/lutir_singh?style=social)](https://twitter.com/lutir_singh)
+[![Linkedin: ritul-singh](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritul-singh/)](https://www.linkedin.com/in/ritul-singh/)
+[![GitHub ritulsingh](https://img.shields.io/github/followers/ritulsingh?label=follow&style=social)](https://github.com/ritulsingh)
+
 
 
 **Languages and Tools:**  
