@@ -28,7 +28,10 @@ const ritul = {
 ```
 <a href="https://github.com/ritulsingh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritulsingh&theme=light&hide_langs_below=1" />
+<a href="https://github.com/ritulsingh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritulsingh&show_icons=true&theme=light&line_height=27" alt="Ritul's github stats"/>
 </a>
+ </a>
 <a href="https://github.com/ritulsingh/AgeCalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AgeCalculator&theme=light" />
 
@@ -36,11 +39,6 @@ const ritul = {
 <a href="https://github.com/ritulsingh/DataStructreCode">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=DataStructreCode&theme=light" />
 </a>
-<br>
-<a href="https://github.com/ritulsingh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritulsingh&show_icons=true&theme=light&line_height=27" alt="Ritul's github stats"/>
-</a>
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
