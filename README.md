@@ -1,4 +1,4 @@
----
+
 ## नमस्ते (Namaste)🙏🏻, I'm [Ritul Singh!](https://ritulsingh.github.io/lutirsingh/) 👋
 <a href="https://github.com/ritulsingh"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="250"> </a>
 
