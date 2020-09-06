@@ -29,12 +29,11 @@ const ritul = {
 <a href="https://github.com/ritulsingh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritulsingh&theme=light&hide_langs_below=1" />
 <a href="https://github.com/ritulsingh">
- <img  src="https://github-readme-stats.vercel.app/api?username=ritulsingh&show_icons=true&theme=light&line_height=27" alt="Ritul's github stats"/>
+ <img  align="center" src="https://github-readme-stats.vercel.app/api?username=ritulsingh&show_icons=true&theme=light&line_height=27" alt="Ritul's github stats"/>
 </a>
  </a>
 <a href="https://github.com/ritulsingh/AgeCalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AgeCalculator&theme=light" />
-
 </a>
 <a href="https://github.com/ritulsingh/DataStructreCode">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=DataStructreCode&theme=light" />
