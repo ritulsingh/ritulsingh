@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend almost 6 to 7 hours with my laptop every day.
 
 [![Twitter: lutir_singh](https://img.shields.io/twitter/follow/lutir_singh?style=social)](https://twitter.com/lutir_singh)
-[![Linkedin: ritul-singh](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritul-singh/)](https://www.linkedin.com/in/ritul-singh/)
+[![Linkedin: ritul-singh](https://img.shields.io/badge/-ritul-singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritul-singh/)](https://www.linkedin.com/in/ritul-singh/)
 [![GitHub ritulsingh](https://img.shields.io/github/followers/ritulsingh?label=follow&style=social)](https://github.com/ritulsingh)
 
 
