@@ -67,8 +67,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AgeCalculator&theme=light" />
 
 </a>
-<a href="https://github.com/ritulsingh/Wifi-Password-in-Windows">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=WifiPasswordWindowsX&theme=light" />
+<a href="https://github.com/ritulsingh/DataStructreCode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=DataStructreCode&theme=light" />
 </a>
 
 <div align="center">
