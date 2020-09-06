@@ -63,12 +63,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/ritulsingh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritulsingh&show_icons=true&theme=light&line_height=27" alt="Ritul's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+<a href="https://github.com/ritulsingh/AgeCalculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AgeCalculator&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+<a href="https://github.com/ritulsingh/Wifi-Password-in-Windows">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=WifiPasswordWindowsX&theme=light" />
 </a>
 
 <div align="center">
