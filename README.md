@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritulsingh&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ritulsingh">
- <img align="center" src="" alt="Ritul's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritulsingh&show_icons=true&theme=light&line_height=27" alt="Ritul's github stats"/>
 </a>
 <a href="https://github.com/ritulsingh/AgeCalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AgeCalculator&theme=light" />
