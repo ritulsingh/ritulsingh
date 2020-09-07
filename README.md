@@ -27,20 +27,29 @@ const ritul = {
 };
 ```
 <a href="https://github.com/ritulsingh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritulsingh&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritulsingh&hide=html,css,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/ritulsingh">
- <img  align="center" src="https://github-readme-stats.vercel.app/api?username=ritulsingh&show_icons=true&theme=light&line_height=27" alt="Ritul's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritulsingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ritul's GitHub Stats" />
 </a>
- </a>
+
 <a href="https://github.com/ritulsingh/AgeCalculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AgeCalculator&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AgeCalculator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+
 <a href="https://github.com/ritulsingh/DataStructreCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=DataStructreCode&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=DataStructreCode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <br><a href="https://github.com/ritulsingh"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+
+
+
+## &#x1f4c8; GitHub Stats
+
+    
 
 
