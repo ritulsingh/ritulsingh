@@ -6,7 +6,7 @@
 [![Linkedin: ritul-singh](https://img.shields.io/badge/-ritulsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritul-singh/)](https://www.linkedin.com/in/ritul-singh/)
 [![GitHub ritulsingh](https://img.shields.io/github/followers/ritulsingh?label=follow&style=social)](https://github.com/ritulsingh)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <a href="https://github.com/ritulsingh"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </a> A little more about me...  
 
 ```javascript
 const ritul = {
@@ -39,7 +39,7 @@ const ritul = {
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=DataStructreCode&theme=light" />
 </a>
 
-<br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br><a href="https://github.com/ritulsingh"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
