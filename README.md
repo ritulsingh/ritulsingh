@@ -22,7 +22,7 @@ const ritul = {
     },
     architecture: ["Multi page applications", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Cheat android application using kotlin",
-    challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+    challenge: "I am doing the #100DaysOfCode challenge focused on python and kotlin",
     funFact: "I spend almost 6 to 7 hours with my laptop every day"
 };
 ```
