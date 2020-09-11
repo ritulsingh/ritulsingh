@@ -45,6 +45,14 @@ const ritulSingh = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=DataStructreCode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/ritulsingh/BirthdayGreetApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=BirthdayGreetApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ritulsingh/AnalogClock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AnalogClock&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <br><a href="https://github.com/ritulsingh"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
