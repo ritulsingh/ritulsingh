@@ -40,14 +40,14 @@ const ritulSingh = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AgeCalculator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/ritulsingh/BirthdayGreetApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=BirthdayGreetApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <a href="https://github.com/ritulsingh/DataStructreCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=DataStructreCode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/ritulsingh/BirthdayGreetApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=BirthdayGreetApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <a href="https://github.com/ritulsingh/AnalogClock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AnalogClock&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
