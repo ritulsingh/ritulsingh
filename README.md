@@ -28,7 +28,6 @@ const ritulSingh = {
     funFact: "I spend almost 6 to 7 hours with my laptop every day"
 };
 ```
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ritulsingh">
