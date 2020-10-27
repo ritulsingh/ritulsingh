@@ -5,7 +5,7 @@
 [![Twitter: lutir_singh](https://img.shields.io/twitter/follow/lutir_singh?style=social)](https://twitter.com/lutir_singh)
 [![Linkedin: ritul-singh](https://img.shields.io/badge/-ritulsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritul-singh/)](https://www.linkedin.com/in/ritul-singh/)
 [![GitHub ritulsingh](https://img.shields.io/github/followers/ritulsingh?label=follow&style=social)](https://github.com/ritulsingh)
-[![Visits Badge](https://badges.pufler.dev/visits/ritulsingh/ritulsingh)](https://github.com/ritulsingh/ritulsingh)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/ritulsingh/ritulsingh)](https://github.com/ritulsingh/ritulsingh) -->
 
 ### <a href="https://github.com/ritulsingh"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </a> A little more about me...  
 
