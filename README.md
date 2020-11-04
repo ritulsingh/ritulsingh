@@ -8,7 +8,6 @@
 
 <a href="https://dev.to/ritulsingh"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ritul Singh's DEV Profile" height="30" width="30"></a>
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/ritulsingh/ritulsingh)](https://github.com/ritulsingh/ritulsingh) -->
-
 ### <a href="https://github.com/ritulsingh"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </a> A little more about me...  
 
 ```javascript
