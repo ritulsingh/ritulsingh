@@ -2,7 +2,6 @@
 ## नमस्ते (Namaste)🙏🏻, I'm [Ritul Singh!](https://ritulsingh.github.io/lutirsingh/) 👋 <br>
 <a href="https://github.com/ritulsingh"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="250"> </a>
 
-
 [![Twitter: lutir_singh](https://img.shields.io/twitter/follow/lutir_singh?style=social)](https://twitter.com/lutir_singh)
 [![Linkedin: ritul-singh](https://img.shields.io/badge/-ritulsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritul-singh/)](https://www.linkedin.com/in/ritul-singh/)
 [![GitHub ritulsingh](https://img.shields.io/github/followers/ritulsingh?label=follow&style=social)](https://github.com/ritulsingh)
