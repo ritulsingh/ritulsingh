@@ -29,12 +29,14 @@ const ritulSingh = {
 ```
  ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ritulsingh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritulsingh&hide=html,css,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritulsingh&hide=css,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/ritulsingh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritulsingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ritul's GitHub Stats" />
 </a>
+
+
 
 <a href="https://github.com/ritulsingh/AgeCalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AgeCalculator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -55,3 +57,4 @@ const ritulSingh = {
 <br><a href="https://github.com/ritulsingh"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+
