@@ -27,7 +27,7 @@ const ritulSingh = {
     funFact: "I spend almost 6 to 7 hours with my laptop every day"
 };
 ```
- ## &#x1f4c8; GitHub Stats
+<!--  ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ritulsingh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritulsingh&hide=css,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -52,7 +52,7 @@ const ritulSingh = {
 
 <a href="https://github.com/ritulsingh/AnalogClock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritulsingh&repo=AnalogClock&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 <br><a href="https://github.com/ritulsingh"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
