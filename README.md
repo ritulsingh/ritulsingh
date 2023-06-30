@@ -12,17 +12,17 @@
 ```javascript
 const ritulSingh = {
     pronouns: "He" | "Him",
-    code: [Python, Java, Node.js, C++ , HTML],
+    code: [Javascript, Typescript, Node.js, Python],
     askMeAbout: [Python, Tech, Node.js, Backend Developer],
     technologies: {
         mobileApp: [Android Application, Flutter Application],
         python: [Flask, Django, Numpy]
         },
-        databases: [Oracle, MySql, Sqlite],
+        databases: [MongoDB, MySql, Sqlite],
         misc: [Firebase, Php]
     },
     architecture: ["Multi page applications", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Cheat android application using kotlin",
+    currentProject: "",
     challenge: "I am doing the #100DaysOfCode challenge focused on python and kotlin",
     funFact: "I spend almost 6 to 7 hours with my laptop every day"
 };
